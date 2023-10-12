@@ -1,0 +1,6 @@
+{
+	"search.exclude":{
+		"**/.npm_cache": true,
+		"**/vendor": true
+	}
+}
